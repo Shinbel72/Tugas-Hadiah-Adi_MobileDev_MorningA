@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_home"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_whatshot_24"/>
+
+    <item
+        android:id="@+id/bottom_alarm"
+        android:title="Alarm Manager"
+        android:icon="@drawable/give_nutrition_24"
+        />
+
+    <item
+        android:title=""
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/bottom_retrofit"
+        android:title="Retrofit"
+        android:icon="@drawable/baseline_notification_important_24" />
+    <item
+        android:id="@+id/bottom_user"
+        android:title="Profile"
+        android:icon="@drawable/baseline_account_circle_24" />
+</menu>

@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Adi_MobileDev_Morning_A" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/pink_red</item>
+        <item name="colorPrimaryVariant">@color/pink_red</item>
+        <item name="android:statusBarColor">@color/pink_red</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorSecondary">@color/blu_purple</item>
+        <item name="colorSecondaryVariant">@color/blu_purple</item>
+        <item name="colorOnSecondary">@color/white</item>
+    </style>
+
+    <style name="Theme.Adi_MobileDev_Morning_A" parent="Base.Theme.Adi_MobileDev_Morning_A" />
+</resources>
